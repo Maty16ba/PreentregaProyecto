@@ -1,6 +1,7 @@
 # Proyecto PreEntrega Frontend JS
 
-Este proyecto es una preentrega para el curso de Frontend con JavaScript. En el cual veremos una pagina de venta de verduras y frutas de primera calidad.
+Este proyecto es una preentrega para el curso de Frontend con JavaScript, En el cual veremos una pagina de venta de verduras y frutas de primera calidad.
+
 
 ## Contenido
 
